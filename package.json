@@ -1,0 +1,25 @@
+{
+  "name": "sequelize-node",
+  "version": "1.0.0",
+  "description": "sequelize-node app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shiningnicholson95/Sequelize-Node-App.git"
+  },
+  "keywords": [
+    "sequelize-node"
+  ],
+  "author": "ashish badoni",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shiningnicholson95/Sequelize-Node-App/issues"
+  },
+  "homepage": "https://github.com/shiningnicholson95/Sequelize-Node-App#readme",
+  "dependencies": {
+    "sequelize": "^5.17.2"
+  }
+}
