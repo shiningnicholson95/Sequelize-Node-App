@@ -20,6 +20,7 @@
   },
   "homepage": "https://github.com/shiningnicholson95/Sequelize-Node-App#readme",
   "dependencies": {
-    "sequelize": "^5.17.2"
+    "sequelize": "^5.17.2",
+    "sequelize-cli": "^5.5.0"
   }
 }
